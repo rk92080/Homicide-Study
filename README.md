@@ -12,3 +12,5 @@ https://covid19.census.gov/datasets/21843f238cbb46b08615fc53e19e0daf_1/explore?l
 Suicides, Homicides, and Drug and Alcohol Related Death(2010-2020): https://wonder.cdc.gov/controller/datarequest/
 
 Income & Poverty (2022): https://www.census.gov/programs-surveys/saipe.html
+
+All raw data and data generated from Notebooks are provided under Data file. 
